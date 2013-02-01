@@ -59,6 +59,10 @@ Python-Exec
 
 ### Process
 
+1. multiprocessing
+	
+	http://docs.python.org/2/library/multiprocessing.html
+
 ### Thread
 
 ## Design Pattern
