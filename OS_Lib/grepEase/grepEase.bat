@@ -1,0 +1,1 @@
+python C:\local\svn-local\tiny\src\toolkit\grepEase\grepEase.py "path" C:\local\svn-local\tiny\src\toolkit\ -i > tmp.swp
