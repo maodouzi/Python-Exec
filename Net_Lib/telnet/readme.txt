@@ -1,0 +1,1 @@
+python telnet.py 192.168.211.129 pear 231 "ls"
